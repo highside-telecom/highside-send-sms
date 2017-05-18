@@ -1,0 +1,21 @@
+{
+  "name": "highside-send-sms",
+  "version": "1.0.0",
+  "description": "Send SMS via Highside Platform https://platform.highside.net",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:highside-telecom/highside-send-sms.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "send-sms",
+    "highside"
+  ],
+  "author": "Highside Telecom",
+  "license": "MIT",
+  "dependencies": {}
+}
